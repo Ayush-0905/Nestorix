@@ -408,7 +408,7 @@ Custom license: For educational, personal and research use only. All rights rese
 ## 👨‍💻 Author
 
 **Ayush Agrawal**
-GitHub: [Ayush-0905](https://github.com/yourusername)
+GitHub: [Ayush-0905](https://github.com/Ayush-0905)
 PyPI: [nestorix](https://pypi.org/project/nestorix)
 
 > For full API and advanced usage, visit the documentation section on the website.
